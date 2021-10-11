@@ -1,6 +1,6 @@
 # midterm_app
 
-A new Flutter project.
+My Midterm Flutter App designed for Android Firebase Usage ONLY. The requires Firebase access files will be uploaded with my submission to Github.
 
 ## Getting Started
 
